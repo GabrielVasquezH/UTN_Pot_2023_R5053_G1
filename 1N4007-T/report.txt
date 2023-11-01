@@ -1,0 +1,1 @@
+Error: Actualizar símbolo D5 de 'PCM_Diode_AKL:1N4007' a 'PCM_Diode_AKL:1N4007': *** no se ha encontrado el símbolo***
